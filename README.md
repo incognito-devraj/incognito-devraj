@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile views & followers badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=incognito-devraj&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0f3460&labelColor=16213e&label=FOLLOWERS)](https://github.com/YOUR_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/incognito-devraj?style=for-the-badge&color=0f3460&labelColor=16213e&label=FOLLOWERS)](https://github.com/incognito-devraj)
 
 </div>
 
@@ -98,7 +98,7 @@ public class Devraj {
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/splitit)
+[![Repo](https://img.shields.io/badge/View_Repo-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incognito-devraj/splitit)
 
 </td>
 
@@ -120,7 +120,7 @@ public class Devraj {
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat)
 
-[![Repo](https://img.shields.io/badge/View_Repo-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/clinic-management)
+[![Repo](https://img.shields.io/badge/View_Repo-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incognito-devraj/clinic-management)
 
 </td>
 
@@ -143,7 +143,7 @@ public class Devraj {
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/View_Repo-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/student-records)
+[![Repo](https://img.shields.io/badge/View_Repo-e94560?style=for-the-badge&logo=github&logoColor=white)](https://github.com/incognito-devraj/student-records)
 
 </td>
 
@@ -174,13 +174,13 @@ public class Devraj {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8dadc"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=incognito-devraj&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8dadc"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8dadc"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-devraj&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8dadc"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8dadc&dates=a8dadc&sideNums=a8dadc&currStreakNum=a8dadc)
+![GitHub Streak](https://streak-stats.demolab.com?user=incognito-devraj&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8dadc&dates=a8dadc&sideNums=a8dadc&currStreakNum=a8dadc)
 
 </div>
 
@@ -190,7 +190,7 @@ public class Devraj {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=incognito-devraj&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
