@@ -1,4 +1,3 @@
-```md
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Devraj%20Mukherjee&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20Real%20Products%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18&descColor=ffffff&stroke=38bdf8&strokeWidth=2" />
 </div>
@@ -149,4 +148,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer"/>
 </div>
-```
