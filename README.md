@@ -21,27 +21,45 @@
 <tr>
 <td width="50%" valign="top">
 
-### Splitit
+<h3>Splitit</h3>
 
-Expense splitting platform designed for hostels, shared flats, trips and teams.
+<p>
+Expense splitting platform with easy minimal UI/UX designed for hostels, shared flats, trips and teams.
+</p>
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p>
+<a href="https://mysplitit.vercel.app">Demo</a> |
+<a href="https://github.com/incognito-devraj/splitit">Source Code</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ANNET
+<h3>ANNET</h3>
 
-Anonymous real-time communication platform featuring room-based messaging and file sharing.
+<p>
+Anonymous real-time communication and one tap files & zip folder and code sharing platform featuring room-based messaging and file sharing.
+</p>
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<p>
+<a href="https://goannet.vercel.app">Demo</a> |
+<a href="https://github.com/incognito-devraj/ANNET">Source Code</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+</p>
 
 </td>
 </tr>
@@ -49,31 +67,45 @@ Anonymous real-time communication platform featuring room-based messaging and fi
 <tr>
 <td width="50%" valign="top">
 
-### Clinic Appointment Management System
+<h3>Clinic Appointment Management System</h3>
 
-Java and MySQL based appointment management solution.
+<p>
+Java and MySQL based appointment management solution with patient management, scheduling and database persistence.
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<a href="https://github.com/incognito-devraj/YOUR_CLINIC_REPO">Source Code</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Student Record Management System
+<h3>Student Record Management System</h3>
 
-Java-based CRUD application implementing layered architecture.
+<p>
+Java-based CRUD application implementing layered architecture, validation and MySQL database integration.
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<a href="https://github.com/incognito-devraj/YOUR_STUDENT_REPO">Source Code</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
 </td>
 </tr>
 </table>
-
-
 ---
 
 ### Tech Toolbox
