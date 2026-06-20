@@ -15,56 +15,64 @@
 - Open to Software Engineering opportunities
 
 ---
-
-### Featured Projects
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Splitit</h3>
-      <p>Expense splitting platform designed for hostels, shared flats, trips and teams. Built to simplify group expense management and settlements.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </p>
-    </td>
+<tr>
+<td width="50%" valign="top">
 
-    <td width="50%" valign="top">
-      <h3>ANNET</h3>
-      <p>Anonymous real-time communication platform featuring room-based messaging, file sharing and zero-login collaboration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+### Splitit
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Clinic Appointment Management System</h3>
-      <p>Java and MySQL based appointment management solution with patient management, scheduling and database persistence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
+Expense splitting platform designed for hostels, shared flats, trips and teams.
 
-    <td width="50%" valign="top">
-      <h3>Student Record Management System</h3>
-      <p>Java-based CRUD application implementing layered architecture, validation and MySQL database integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ANNET
+
+Anonymous real-time communication platform featuring room-based messaging and file sharing.
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Clinic Appointment Management System
+
+Java and MySQL based appointment management solution.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Student Record Management System
+
+Java-based CRUD application implementing layered architecture.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
 </table>
+
 
 ---
 
