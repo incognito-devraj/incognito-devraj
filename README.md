@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Devraj%20Mukherjee&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20Real%20Products%20%7C%20Open%20to%20SDE%20Roles&descAlignY=58&descSize=18&descColor=ffffff&stroke=38bdf8&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Devraj%20Mukherjee&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&fontSize=22&fontColor=94a3b8" />
 </div>
 
 ---
@@ -10,9 +10,23 @@
 - Building full-stack applications with React, TypeScript, Node.js, Spring Boot and MongoDB
 - Practicing Data Structures & Algorithms
 - Interested in Backend Engineering, System Design and Software Architecture
-- Creator of Splitit and ANNET
+- Creator of Splitit, ANNET, DIMI, CYVOX and other projects
 - Currently focused on Java Full Stack Development
 - Open to Software Engineering opportunities
+
+### Recent Repositories
+
+- [ANNET](https://github.com/incognito-devraj/ANNET)
+- [Clinic-Appointment-Management-System](https://github.com/incognito-devraj/Clinic-Appointment-Management-System)
+- [CYVOX](https://github.com/incognito-devraj/CYVOX)
+- [devraj-portfolio](https://github.com/incognito-devraj/devraj-portfolio)
+- [DIMI](https://github.com/incognito-devraj/DIMI)
+- [DIMI-webpage](https://github.com/incognito-devraj/DIMI-webpage)
+- [production-order-processing-system](https://github.com/incognito-devraj/production-order-processing-system)
+- [register](https://github.com/incognito-devraj/register)
+- [Splitit](https://github.com/incognito-devraj/Splitit)
+- [Student-Record-Management](https://github.com/incognito-devraj/Student-Record-Management)
+- [TACIC](https://github.com/incognito-devraj/TACIC)
 
 ---
 ## Featured Projects
@@ -29,7 +43,7 @@ Expense splitting platform with easy minimal UI/UX designed for hostels, shared 
 
 <p>
 <a href="https://mysplitit.vercel.app">Demo</a> |
-<a href="https://github.com/incognito-devraj/splitit">Source Code</a>
+<a href="https://github.com/incognito-devraj/Splitit">Source Code</a>
 </p>
 
 <p>
@@ -74,7 +88,7 @@ Java and MySQL based appointment management solution with patient management, sc
 </p>
 
 <p>
-<a href="https://github.com/incognito-devraj/YOUR_CLINIC_REPO">Source Code</a>
+<a href="https://github.com/incognito-devraj/Clinic-Appointment-Management-System">Source Code</a>
 </p>
 
 <p>
@@ -94,7 +108,7 @@ Java-based CRUD application implementing layered architecture, validation and My
 </p>
 
 <p>
-<a href="https://github.com/incognito-devraj/YOUR_STUDENT_REPO">Source Code</a>
+<a href="https://github.com/incognito-devraj/Student-Record-Management">Source Code</a>
 </p>
 
 <p>
